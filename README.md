@@ -154,5 +154,5 @@ This ensures that:
 No LLD is perfect. There is always room for iterative improvement, whether in abstraction, decoupling, or scaling design patterns.
 
 ## 👨‍💻 Author
-Anirudh Chaudhary
+Anirudh Chaudhary <br>
 Passionate about system design and clean code architecture.
