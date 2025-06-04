@@ -1,0 +1,1 @@
+# Google-Docs-Similar-LLD-SOLID-Principle
